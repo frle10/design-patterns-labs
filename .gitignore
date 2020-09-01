@@ -1,5 +1,9 @@
 .settings
 .project
 .vscode
+.classpath
 *.exe
 *.o
+
+bin/
+target/
